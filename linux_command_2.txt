@@ -1,0 +1,5 @@
+mkdir 6352500412
+sudo nano CLASS_ROBOT.txt
+git remote add origin https://github.com/class-robot/final-exam.git
+ssh-keyden -t -ed25519 -c "https://github.com/class-robot/final-exam.git"
+git switch -c robot-dev 
